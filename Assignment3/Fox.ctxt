@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Fox
+comment0.text=\n\ A\ simple\ model\ of\ a\ fox.\n\ Foxes\ age,\ move,\ eat\ rabbits,\ and\ die.\n\ Foxes\ will\ die\ faster\ if\ they\ are\ diseased\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00C3\u00B6lling\n\ @version\ 2016.02.29\ (2)\n
+comment1.params=randomAge\ field\ position
+comment1.target=Fox(boolean,\ Field,\ Position)
+comment1.text=\n\ Create\ a\ fox.\ A\ fox\ can\ be\ created\ as\ a\ new\ born\ (age\ zero\n\ and\ not\ hungry)\ or\ with\ a\ random\ age\ and\ food\ level.\n\ \n\ @param\ randomAge\ If\ true,\ the\ fox\ will\ have\ random\ age\ and\ hunger\ level.\n\ @param\ field\ The\ field\ currently\ occupied.\n\ @param\ position\ The\ position\ within\ the\ field.\n
+comment2.params=
+comment2.target=Gender\ getGender()
+comment2.text=\n\ Returns\ gender\ of\ fox\n
+comment3.params=food
+comment3.target=void\ eatPrey(Organism)
+comment3.text=\n\ Determines\ what\ the\ fox\ has\ hunted\ and\ eat\ the\ hunted\ prey\n
+comment4.params=newFoxes
+comment4.target=void\ act(java.util.List)
+comment4.text=\n\ This\ is\ what\ the\ fox\ does\ most\ of\ the\ time\:\ it\ hunts\ for\n\ rabbits.\ In\ the\ process,\ it\ might\ breed,\ die\ of\ hunger,\n\ or\ die\ of\ old\ age.\n\ @param\ field\ The\ field\ currently\ occupied.\n\ @param\ newFoxes\ A\ list\ to\ return\ newly\ born\ foxes.\n
+comment5.params=
+comment5.target=void\ incrementAge()
+comment5.text=\n\ Increase\ the\ age.\ This\ could\ result\ in\ the\ fox's\ death.\n
+comment6.params=
+comment6.target=void\ incrementHunger()
+comment6.text=\n\ Make\ this\ fox\ more\ hungry.\ This\ could\ result\ in\ the\ fox's\ death.\n
+numComments=7

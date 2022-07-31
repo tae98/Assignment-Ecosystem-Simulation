@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Weather
+comment0.text=\n\ Class\ that\ determines\ the\ weather\ of\ the\ simulation\n\ Animals\ and\ plants\ will\ behave\ differently\ under\ different\ weathers.\n\ @2018-02\n
+comment1.params=
+comment1.target=Weather()
+comment1.text=\n\ Constructor\ for\ object\ Weather\n
+comment2.params=
+comment2.target=void\ weatherChange()
+comment2.text=\n\ A\ method\ to\ determine\ weather\ by\ it\ probability\n
+comment3.params=
+comment3.target=WeatherState\ getCurrentWeather()
+numComments=4

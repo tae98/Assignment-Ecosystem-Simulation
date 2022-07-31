@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Plant
+comment0.text=\n\ Write\ a\ description\ of\ class\ Plant\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=randomGrowth\ field\ position
+comment1.target=Plant(boolean,\ Field,\ Position)
+comment1.text=\n\ Plant\ constructor\n
+comment2.params=
+comment2.target=void\ grow()
+comment2.text=\n\ Plants\ rate\ of\ plants\ growth\ and\ its\ maximum\ age.\n
+comment3.params=newPlants
+comment3.target=void\ act(java.util.List)
+comment3.text=\n\ Plants\ will\ not\ be\ able\ to\ travel\ around\ but\ instead\ grow\ when\ the\ weather\ is\ rainy\n
+numComments=4

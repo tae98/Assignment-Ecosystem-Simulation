@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pair
+comment0.text=\n\ A\ generic\ class\ that\ takes\ in\ two\ generic\ types\n\ Instead\ of\ using\ hashmap\ which\ stores\ a\ list\ of\ paired\ objects\n\ This\ class\ stores\ a\ single\ pair.\n\ @2018-02\n
+comment1.params=key\ value
+comment1.target=Pair(java.lang.Object,\ java.lang.Object)
+comment1.text=\n\ Constructor\ of\ Pair\ class,\ initialises\ generic\ type\ values\n
+comment2.params=
+comment2.target=java.lang.Object\ getKey()
+comment2.text=\n\ Returns\ the\ key\ of\ the\ pair\n
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+comment3.text=\n\ Returns\ the\ value\ of\ the\ pair\n
+comment4.params=key\ value
+comment4.target=void\ set(java.lang.Object,\ java.lang.Object)
+comment4.text=\n\ Change\ the\ key\ and\ value\ of\ the\ pair\n
+numComments=5

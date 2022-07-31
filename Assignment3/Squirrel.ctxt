@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squirrel
+comment0.text=\n\ A\ simple\ model\ of\ a\ squirrel.\n\ squirrels\ age,\ move,\ breed,\ and\ die.\n\ \n\ @2018-02\n
+comment1.params=randomAge\ field\ position
+comment1.target=Squirrel(boolean,\ Field,\ Position)
+comment1.text=\n\ Create\ a\ new\ squirrel.\ A\ squirrel\ may\ be\ created\ with\ age\n\ zero\ (a\ new\ born)\ or\ with\ a\ random\ age.\n\ \n
+comment2.params=
+comment2.target=Gender\ getGender()
+comment2.text=\n\ Returns\ the\ gender\ of\ squirrel\n
+comment3.params=newSquirrels
+comment3.target=void\ act(java.util.List)
+comment3.text=\n\ This\ is\ what\ the\ squirrel\ does\ most\ of\ the\ time\ -\ it\ runs\ \n\ around.\ Sometimes\ it\ will\ breed\ or\ die\ of\ old\ age.\n
+comment4.params=
+comment4.target=void\ incrementHunger()
+comment4.text=\n\ squirrels\ will\ get\ hungry\ for\ each\ step\n\ and\ will\ die\ if\ they\ do\ not\ find\ food\ in\ time.\n
+comment5.params=
+comment5.target=Position\ findPlants()
+comment5.text=\n\ Checks\ nearby\ positions\ for\ plants\ and\ eat\ them.\n
+comment6.params=
+comment6.target=void\ incrementAge()
+comment6.text=\n\ Increase\ the\ age.\n\ This\ could\ result\ in\ the\ squirrel's\ death.\n\ If\ they\ are\ carrying\ a\ disease\ they\ die\ faster;\n
+numComments=7

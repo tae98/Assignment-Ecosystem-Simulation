@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bear
+comment0.text=\n\ A\ simple\ model\ of\ a\ bear.\n\ bears\ age,\ move,\ eat\ rabbits,\ and\ die.\n\ \n\ @2018-02\n
+comment1.params=randomAge\ field\ position
+comment1.target=Bear(boolean,\ Field,\ Position)
+comment1.text=\n\ Create\ a\ bear.\ A\ bear\ can\ be\ created\ as\ a\ new\ born\ (age\ zero\n\ and\ not\ hungry)\ or\ with\ a\ random\ age\ and\ food\ level.\n
+comment2.params=
+comment2.target=Gender\ getGender()
+comment2.text=\n\ Returns\ the\ gender\ of\ bear\n
+comment3.params=newBears
+comment3.target=void\ act(java.util.List)
+comment3.text=\n\ This\ is\ what\ the\ bear\ does\ most\ of\ the\ time\:\ it\ hunts\ for\n\ rabbits,\ rats,\ snakes\ and\ foxes.\ \n\ In\ the\ process,\ it\ might\ breed,\ die\ of\ hunger,\n\ or\ die\ of\ old\ age.\n
+comment4.params=food
+comment4.target=void\ eatPrey(Organism)
+comment4.text=\n\ Determines\ what\ animal\ was\ hunted\ and\ eat\ them.\n
+comment5.params=
+comment5.target=void\ incrementAge()
+comment5.text=\n\ Increase\ the\ age.\ This\ could\ result\ in\ the\ bear's\ death.\n
+comment6.params=
+comment6.target=void\ incrementHunger()
+comment6.text=\n\ Make\ this\ bear\ more\ hungry.\ This\ could\ result\ in\ the\ bear's\ death.\n
+numComments=7

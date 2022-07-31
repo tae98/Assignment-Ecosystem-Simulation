@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hunting
+comment0.text=\n\ An\ interface\ that\ can\ be\ implemented\ by\ animals\ who\n\ has\ the\ ability\ to\ hunt.\ \n\ @2018-02\n
+comment1.params=food
+comment1.target=void\ eatPrey(Organism)
+comment1.text=\n\ Unimplemented\ method\ -\ animals\ that\ implement\ this\ interface\ will\ have\ to\ implement\ this\ method\n\ This\ method\ is\ used\ to\ eat\ animals\ that\ have\ been\ found\ near\ a\ predator.\n
+comment2.params=field\ currentPosition\ preyType
+comment2.target=Pair\ findFood(Field,\ Position,\ java.util.List)
+comment2.text=\n\ Java\ 8's\ default\ method,\ allows\ a\ pre-implemented\ method\ in\ an\ interface\n\ This\ reduces\ overall\ coupling\ between\ classes.\n\ This\ method\ searches\ for\ nearby\ animals\ and\ return\ their\ location\ and\ the\ animal\ itself\n\ so\ the\ predator\ can\ eat\ them.\n
+numComments=3

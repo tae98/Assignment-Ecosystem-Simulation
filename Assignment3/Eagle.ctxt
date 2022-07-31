@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Eagle
+comment0.text=\n\ A\ simple\ model\ of\ a\ eagle.\n\ eagles\ age,\ move,\ eat\ rabbits,\ and\ die.\n\ eagles\ will\ die\ faster\ if\ they\ are\ carrying\ diseases\n\ @2018-02\n
+comment1.params=randomAge\ field\ position
+comment1.target=Eagle(boolean,\ Field,\ Position)
+comment1.text=\n\ Create\ a\ eagle.\ A\ eagle\ can\ be\ created\ as\ a\ new\ born\ (age\ zero\n\ and\ not\ hungry)\ or\ with\ a\ random\ age\ and\ food\ level.\n\ \n\ @param\ randomAge\ If\ true,\ the\ eagle\ will\ have\ random\ age\ and\ hunger\ level.\n\ @param\ field\ The\ field\ currently\ occupied.\n\ @param\ position\ The\ position\ within\ the\ field.\n
+comment2.params=
+comment2.target=Gender\ getGender()
+comment2.text=\n\ Returns\ the\ gender\ of\ a\ eagle\n
+comment3.params=newEagles
+comment3.target=void\ act(java.util.List)
+comment3.text=\n\ This\ is\ what\ the\ eagle\ does\ most\ of\ the\ time\:\ it\ hunts\ for\n\ rabbits.\ In\ the\ process,\ it\ might\ breed,\ die\ of\ hunger,\n\ or\ die\ of\ old\ age.\n\ \n
+comment4.params=food
+comment4.target=void\ eatPrey(Organism)
+comment4.text=\n\ Determines\ what\ animal\ was\ hunted\ and\ eat\ them\n
+comment5.params=
+comment5.target=void\ incrementAge()
+comment5.text=\n\ Increase\ the\ age.\ This\ could\ result\ in\ the\ eagle's\ death.\n
+comment6.params=
+comment6.target=void\ incrementHunger()
+comment6.text=\n\ Make\ this\ eagle\ more\ hungry.\ This\ could\ result\ in\ the\ eagle's\ death.\n
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Sex
+comment0.text=\n\ A\ simple\ interface\ that\ determines\ the\ sex\ of\ an\ organism.\n\ Not\ all\ organism\ requires\ both\ sex\ to\ reproduce\ such\ as\ plants\ therefore\ only\n\ those\ that\ requires\ the\ opposite\ sex\ to\ reproduce\ need\ to\ implement\ this\ interface\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Gender\ getGender()
+comment1.text=\n\ Unimplemented\ method\ that\ will\ be\ required\ to\ be\ implemented\ by\ classes.\n
+comment2.params=
+comment2.target=Gender\ determineGender()
+comment2.text=\n\ Default\ interface\ method\ which\ calculates\ what\ gender\ an\ organism\ will\ be.\ \n\ So\ far\ the\ chances\ are\ 50%\ for\ each.\n
+numComments=3

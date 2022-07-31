@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Rabbit
+comment0.text=\n\ A\ simple\ model\ of\ a\ rabbit.\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00C3\u00B6lling\n\ @version\ 2016.02.29\ (2)\n
+comment1.params=randomAge\ field\ Position
+comment1.target=Rabbit(boolean,\ Field,\ Position)
+comment1.text=\n\ Create\ a\ new\ rabbit.\ A\ rabbit\ may\ be\ created\ with\ age\n\ zero\ (a\ new\ born)\ or\ with\ a\ random\ age.\n\ \n\ @param\ randomAge\ If\ true,\ the\ rabbit\ will\ have\ a\ random\ age.\n\ @param\ field\ The\ field\ currently\ occupied.\n\ @param\ position\ The\ position\ within\ the\ field.\n
+comment2.params=
+comment2.target=Gender\ getGender()
+comment2.text=\n\ Returns\ gender\ of\ rabbit\n
+comment3.params=newRabbits
+comment3.target=void\ act(java.util.List)
+comment3.text=\n\ This\ is\ what\ the\ rabbit\ does\ most\ of\ the\ time\ -\ it\ runs\ \n\ around.\ Sometimes\ it\ will\ breed\ or\ die\ of\ old\ age.\n\ @param\ newRabbits\ A\ list\ to\ return\ newly\ born\ rabbits.\n
+comment4.params=
+comment4.target=void\ incrementHunger()
+comment5.params=
+comment5.target=Position\ findPlants()
+comment6.params=
+comment6.target=void\ incrementAge()
+comment6.text=\n\ Increase\ the\ age.\n\ This\ could\ result\ in\ the\ rabbit's\ death.\n
+numComments=7
